@@ -4,7 +4,7 @@ Olá, meu nome é Kalel, sou desenvoledor <strong>Full Stack</strong> na <strong
 
 🐱‍👤 Habilidades: <strong> Java</strong>,  <strong> NodeJS</strong>, <strong> JavaScript</strong>, <strong> AngularJS</strong>, <strong> Typescript</strong>, <strong> Boostrap</strong>, <strong> HTML</strong>, <strong> CSS</strong>. 
 
-🛠️ Ferramentas: <strong> Github</strong>, <strong> GitLab</strong>, <strong> IntelliJ IDEA</strong>, <strong> Ecplise</strong>, <strong> VSCode</strong>, <strong> Figma</strong>, <strong>Balsamiq</strong>.
+🛠️ Ferramentas: <strong> Github</strong>, <strong> GitLab</strong>, <strong> IntelliJ IDEA</strong>, <strong> Eclipse</strong>, <strong> VSCode</strong>, <strong> Figma</strong>, <strong>Balsamiq</strong>.
 
 <p align="left">
 
