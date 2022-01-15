@@ -1,7 +1,7 @@
 ### Hello 🌎, my name is Kalel...
 
 <p align="left">
-  i'm <i>Full Stack</i> developer, at <strong>Neomind</strong>.
+  i'm <i>Full Stack</i> developer, at <strong>Neomind</strong>
  </p>
 
 <p>🎓 Graduation: <strong> Analysis and Systems Development</strong>. </p>
