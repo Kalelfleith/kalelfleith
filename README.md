@@ -1,10 +1,14 @@
-Olá, meu nome é Kalel, sou desenvoledor <strong>Full Stack</strong> na <strong>Neomind</strong>.
+### Hello 🌎, my name is Kalel...
 
-🎓 Formação: <strong> Análise e Desenvolvimento de Sistemas</strong>.
+<p align="left">
+  i'm <i>Full Stack</i> developer, at <strong>Neomind</strong>.
+ </p>
 
-🐱‍👤 Habilidades: <strong> Java</strong>,  <strong> NodeJS</strong>, <strong> JavaScript</strong>, <strong> AngularJS</strong>, <strong> Typescript</strong>, <strong> Boostrap</strong>, <strong> HTML</strong>, <strong> CSS</strong>. 
+<p>🎓 Graduation: <strong> Analysis and Systems Development</strong>. </p>
 
-🛠️ Ferramentas: <strong> Github</strong>, <strong> GitLab</strong>, <strong> IntelliJ IDEA</strong>, <strong> Eclipse</strong>, <strong> VSCode</strong>, <strong> Figma</strong>, <strong>Balsamiq</strong>.
+<p> 🐱‍👤 Skills: <strong> Java</strong>,  <strong> NodeJS</strong>, <strong> JavaScript</strong>, <strong> AngularJS</strong>, <strong> Typescript</strong>, <strong> Boostrap</strong>, <strong> HTML</strong>, <strong> CSS</strong>. </p>
+
+<p> 🛠️ Tools: <strong> Github</strong>, <strong> GitLab</strong>, <strong> IntelliJ IDEA</strong>, <strong> Eclipse</strong>, <strong> VSCode</strong>, <strong> Figma</strong>, <strong>Balsamiq</strong>. </p>
 
 <p align="left">
 
