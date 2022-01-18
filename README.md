@@ -4,11 +4,26 @@
   i'm <i>Full Stack</i> developer, at <strong>Neomind</strong>
  </p>
 
-<p>🎓 Graduation: <strong> Analysis and Systems Development</strong>. </p>
+## Graduation 🎓
+<strong> Analysis and Systems Development</strong>
 
-<p> 🐱‍👤 Skills: <strong> Java</strong>,  <strong> NodeJS</strong>, <strong> JavaScript</strong>, <strong> AngularJS</strong>, <strong> Typescript</strong>, <strong> Boostrap</strong>, <strong> HTML</strong>, <strong> CSS</strong>. </p>
 
-<p> 🛠️ Tools: <strong> Github</strong>, <strong> GitLab</strong>, <strong> IntelliJ IDEA</strong>, <strong> Eclipse</strong>, <strong> VSCode</strong>, <strong> Figma</strong>, <strong>Balsamiq</strong>. </p>
+## Skills 🐱‍👤
+
+<img alt="Java" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" />
+<img align="center" alt="LucasDeSouza-TypeScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img alt="ANGULARJS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
+<img alt="HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img alt="CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" />
+
+## Tools 🛠️
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="60" />
 
 <p align="left">
 
