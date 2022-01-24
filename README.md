@@ -5,7 +5,7 @@
  </p>
 
 ## Graduation 🎓
-<strong> Analysis and Systems Development</strong>
+Graduated in <strong>Analysis and Systems Development</strong>
 
 ## Skills 🐱‍👤
 
