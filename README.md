@@ -43,12 +43,18 @@ Graduated in <strong>Analysis and Systems Development</strong>
 <p align="left">
   💌 Follow me and let's grow our network 😀
 </p>
-<p align="left">
 
+<div>
+  
+<p align="left">
 <a href="https://www.instagram.com/kalelfleith/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
-
 <a href="https://www.linkedin.com/in/kalel-fleith-perfil/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
-  
 </p>
+  
+ ---
+  
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
+</div>
