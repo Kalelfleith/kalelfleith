@@ -5,7 +5,7 @@
  </p>
 
 ## Graduation 🎓
-Graduated in <strong>Analysis and Systems Development</strong>
+Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 
 ## Skills 🐱‍👤
 
