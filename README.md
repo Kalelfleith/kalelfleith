@@ -22,6 +22,7 @@ Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 <img alt="Oralce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60">
 <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"  />
 <img alt="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="60">
 </p>
   
 ## Tools 🛠️
@@ -32,7 +33,6 @@ Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="60">
 </p>
 
 ## Learning 📚
