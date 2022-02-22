@@ -41,6 +41,7 @@ Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt"spring-boot" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" />
+<img src=".github/aws.svg" alt="aws" width="70">
 </p>
  
 ## 
