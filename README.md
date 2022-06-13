@@ -1,7 +1,7 @@
 ## Hello 🌎, my name is Kalel...
 
 <p align="left">
-  i'm <i>Full Stack</i> developer at <strong>Neomind</strong>
+  i'm <i>Full Stack</i> developer at <strong>TriadSystems</strong>
  </p>
 
 ## Graduation 🎓
@@ -13,6 +13,7 @@ Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 <img alt="Java" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" />
 <img alt="TypeScript" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" />
 <img alt="ANGULARJS" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" />
 <img alt="HTML" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img alt="CSS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -40,7 +41,6 @@ Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt"spring-boot" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" />
 <img src=".github/aws.svg" alt="aws" width="70">
 </p>
  
