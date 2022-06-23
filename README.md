@@ -1,4 +1,4 @@
-## Hello 🌎, my name is Kalel...
+## Hi There, my name is Kalel...
 
 <p align="left">
   i'm <i>Full Stack</i> developer at <strong>TriadSystems</strong>
@@ -61,9 +61,5 @@ Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 <a href = "mailto:kalelfleith03@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </p>
-  
- ---
-  
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-  
+
 </div>
