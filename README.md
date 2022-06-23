@@ -7,7 +7,7 @@
 ## Graduation 🎓
 Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 
-## Skills 🐱‍👤
+## Skills 🦄
 
 <p>
 <img alt="Java" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
