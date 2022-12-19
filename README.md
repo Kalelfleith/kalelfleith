@@ -1,7 +1,7 @@
 ## Hi There, my name is Kalel...
 
 <p align="left">
-  i'm <i>Full Stack</i> developer at <strong>TriadSystems</strong>
+  i'm <i>Full Stack</i> developer at <strong>@asaas</strong>
  </p>
 
 ## Graduation 🎓
