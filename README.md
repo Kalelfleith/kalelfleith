@@ -28,6 +28,7 @@ Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 <img alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60"/>
 <img alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60">
 <img alt="AWS" src=".github/aws.svg" width="70">
+<img alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="60" />  
 </p>
   
 ## Tools 🛠️
@@ -48,7 +49,6 @@ Graduated in <strong>Analysis and Systems Development</strong> in December, 2021
 <p>
 <img alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" />
 <img alt="azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" />
-<img alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="60" />
 <img alt="prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="60" />
 <img alt="swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="60" />
 
